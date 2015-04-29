@@ -65,7 +65,8 @@ ol, ul {
 }
 
 .top-navigation .logo {
-    height: 70px;
+    height: 75px;
+    margin-right: 20%;
 }
 
  .top-navigation .links {
@@ -306,10 +307,11 @@ button{
 }
 
 .content .copy{
-  margin-top: 2rem;
+  margin-top: 10rem;
   text-align: center;
   color: #4c5058;
   font-size: 0.9rem;
+  line-height: 15px;
 }
 
 .dottedoverlay{background: url("../images/gridtile_3x3.png");
